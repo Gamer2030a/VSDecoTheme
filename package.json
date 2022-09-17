@@ -2,6 +2,8 @@
   "name": "DecoTheme",
   "displayName": "DecoTheme",
   "description": "a deco themed color template for vs code",
+  "icon": "DecoThemeIcon.png",
+  "publisher": "ParsaDehghani",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.71.0"
