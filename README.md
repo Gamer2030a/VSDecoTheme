@@ -1,5 +1,5 @@
 # DecoTheme README
-A basic Dark deco themed Extention for Visual studio code
+A basic Dark deco themed Extension for Visual studio code
 ## Working with Markdown
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
