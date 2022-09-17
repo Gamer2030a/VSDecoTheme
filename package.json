@@ -8,6 +8,18 @@
   "engines": {
     "vscode": "^1.71.0"
   },
+  "author": {
+    "name": "Parsa dehghani"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/Gamer2030a/VSDecoTheme.git",
+  "keywords": [
+    "deco theme",
+    "vscode theme",
+    "vs code deco theme",
+    "dark theme",
+    "deco"
+  ],
   "categories": [
     "Themes"
   ],
