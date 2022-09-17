@@ -1,0 +1,21 @@
+{
+  "name": "DecoTheme",
+  "displayName": "DecoTheme",
+  "description": "a deco themed color template for vs code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Deco",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Deco-color-theme.json"
+      }
+    ]
+  }
+}
