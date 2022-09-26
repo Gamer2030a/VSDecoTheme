@@ -7,7 +7,7 @@ this theme is for those who like a simple look and work late under poor lighting
 ## Installation
 1.  Open Visual Studio Code
 2.  Open the Extensions menu
-3.  Search for `DecoTheme` buy 
+3.  Search for `DecoTheme` 
 4.  Click Install
 5.  click on Code > Preferences > Color Theme > Deco
 
