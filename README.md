@@ -1,18 +1,20 @@
-# DecoTheme README
-A basic Dark deco themed Extension for Visual studio code made by parsa dehghani
+# DecoTheme - VS Code theme
+![DecoTheme Banner '](./DECOMainBanner.png)
+A visual Studio Code theme based on the vs codes dark theme,
+this theme is for those who like a simple look and work late under poor lighting conditions.
+![DecoTheme Banner '](./BaseTemplate.jpg)
 
-extention available at : https://marketplace.visualstudio.com/items?itemName=ParsaDehghani.DecoTheme
-## Working with Markdown
+## Installation
+1.  Open Visual Studio Code
+2.  Open the Extensions menu
+3.  Search for `DecoTheme` buy 
+4.  Click Install
+5.  click on Code > Preferences > Color Theme > Deco
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Contributing
+if you guys want to contribute to this project make sure to clone it.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Extra links
+Extension also available at : https://marketplace.visualstudio.com/items?itemName=ParsaDehghani.DecoTheme
 
 **Enjoy!**
