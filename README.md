@@ -17,4 +17,7 @@ if you guys want to contribute to this project make sure to clone it.
 ## Extra links
 Extension also available at : https://marketplace.visualstudio.com/items?itemName=ParsaDehghani.DecoTheme
 
+## Warning
+the deco theme is still underdevelopment and will see drastic changes to improve the syntax coloring and more 
+
 **Enjoy!**
